@@ -21,6 +21,7 @@ description: Måns Magnusson, Ph.D.
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
+  Blog2: "blog2"
   Teaching:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
