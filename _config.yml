@@ -27,6 +27,7 @@ navbar-links:
   research:
     - publications: "publications"
     - Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
+    - Google Scholar: "https://www.researchgate.net/profile/Mans_Magnusson3"
   projects:
     - Welfare State Analytics: "https://www.westac.se/en/"
     - Mining for Meaning: "https://liu.se/en/research/computational-text-analysis"
