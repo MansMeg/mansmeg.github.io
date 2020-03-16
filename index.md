@@ -13,6 +13,6 @@ Måns Magnusson is a postdoc under [Aki Vehtari](https://users.aalto.fi/~ave/) a
 Probabilistic Machine Learning, Bayesian Statistics, Model Comparison and Evaluation, Textual analysis, Computational Social Science, Digital Humanities
 
 #### Education
-Ph.D. in Statistics, Linköping University, Sweden. Supervised by [Mattias Villani](https://www.mattiasvillani.com/) and [Marco Kuhlmann](https://www.ida.liu.se/~marku61/).\
-MS in Statistics, Stockholm University, Sweden\
+Ph.D. in Statistics, Linköping University, Sweden. Supervised by [Mattias Villani](https://www.mattiasvillani.com/) and [Marco Kuhlmann](https://www.ida.liu.se/~marku61/).<br/>
+MS in Statistics, Stockholm University, Sweden<br/>
 MS in Economic History, Stockholm University, Sweden
