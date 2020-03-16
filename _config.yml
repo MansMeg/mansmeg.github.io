@@ -29,7 +29,7 @@ navbar-links:
     - Welfare State Analytics: "https://www.westac.se/en/"
     - Mining for Meaning: "https://liu.se/en/research/computational-text-analysis"
     - Newsworthy:  "https://www.newsworthy.se/en/"
-  software:  "software"  
+  software:  "software"
   about me:
     - CV: "files/cv.pdf"
     - Contact: "contact"
@@ -79,12 +79,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "smons.magnusson@gmail.com"
+  facebook: mons.magnusson
+  github: MansMeg
+  twitter: MansMeg
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: måns-magnusson-93843248
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -98,7 +98,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
 
