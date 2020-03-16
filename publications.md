@@ -6,15 +6,16 @@ title: Research
 
 #### Submitted and arXived work
 
-Måns Magnusson, Richard Öhrvall, Katarina Barrling, and David Mimno. *Voices from the far right: a text analysis of Swedish parliamentary debates*. <br/>
-[socarXiv](https://osf.io/preprints/socarxiv/jdsqc/)
+Oscar Oelrich, Shutong Ding, Aki Vehtari, Måns Magnusson, and Mattias Villani. *When is Bayesian model probabilities overconfident?* <br/>
+[arXiv](https://arxiv.org/abs/2003.04026)
+
 
 Alexander Terenin, Måns Magnusson, and Leif Jonsson. *Sparse parallel training of hierarchical dirichlet process topic models*. <br/>
 [arXiv](https://arxiv.org/abs/1906.02416)
 
-Oscar Oelrich, Shutong Ding, Aki Vehtari, Måns Magnusson, and Mattias Villani. *When is Bayesian model probabilities overconfident?* <br/>
-[arXiv](https://arxiv.org/abs/2003.04026)
 
+Måns Magnusson, Richard Öhrvall, Katarina Barrling, and David Mimno. *Voices from the far right: a text analysis of Swedish parliamentary debates*. <br/>
+[socarXiv](https://osf.io/preprints/socarxiv/jdsqc/)
 
 #### Published
 
