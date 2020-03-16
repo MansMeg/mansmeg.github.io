@@ -6,19 +6,13 @@ use-site-title: true
 ---
 
 
-# Present
-Postdoc at Aalto University, Finland under Aki Vehtari
+#### Bio
+Måns Magnusson is a postdoc under [Aki Vehtari](https://users.aalto.fi/~ave/) at the Department of Computer Science at Aalto University, Finland. He holds a Ph.D. from Linköping University, Sweden supervised by [Mattias Villani](https://www.mattiasvillani.com/). In addition, he has a background as a statistician and has worked in multiple national agencies in Sweden on crime, public health, and education. His work is supported by the Swedish Research Council and Academy of Finland.
 
-## Education
-Ph.D. in Statistics, Linköping University, Sweden under Mattias Villani
+#### Interests
+Probabilistic Machine Learning, Bayesian Statistics, Model Comparison and Evaluation, Textual analysis, Computational Social Science, Digital Humanities
+
+#### Education
+Ph.D. in Statistics, Linköping University, Sweden. Supervised by [Mattias Villani](https://www.mattiasvillani.com/) and [Marco Kuhlmann](https://www.ida.liu.se/~marku61/).
 MS in Statistics, Stockholm University, Sweden
 MS in Economic History, Stockholm University, Sweden
-
-### Previous positions
-sss
-
-#### Interest
-Probabilistic Machine Learning, Bayesian Statistics, Model Comparison and Evaluation, Bayesian Statistics for Textual Data, Computational Social Science, Digital Humanities
-
-##### Bio
-Måns Magnusson is a postdoc at the Department of Computer Science at Aalto University, Finland. He holds a Ph.D. from Linköping University, Sweden, and has a background as an applied statistician in Criminal Statistics, Public Health, and Education in Sweden. His work is supported by the Swedish Research Council and Academy of Finland.

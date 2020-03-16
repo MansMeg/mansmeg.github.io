@@ -19,13 +19,20 @@ description: Måns Magnusson, Ph.D.
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+#  Blog: "blog"
+
 navbar-links:
-  Blog: "blog"
-  Teaching:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Research: "aboutme"
-  Author's home: "http://deanattali.com"
+  news: "news"
+  teaching: "teaching"
+  research: "publications"
+  projects:
+    - Welfare State Analytics: "https://www.westac.se/en/"
+    - Mining for Meaning: "https://liu.se/en/research/computational-text-analysis"
+    - Newsworthy:  "https://www.newsworthy.se/en/"
+  software:  "software"  
+  about me:
+    - CV: "files/cv.pdf"
+    - Contact: "contact"
 
 # Handle different blogposts
 paginate_path: "/blog/page:num/"
