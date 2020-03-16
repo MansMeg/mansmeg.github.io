@@ -27,7 +27,7 @@ navbar-links:
   research:
     - publications: "publications"
     - Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
-    - Google Scholar: "https://www.researchgate.net/profile/Mans_Magnusson3"
+    - ResearchGate: "https://www.researchgate.net/profile/Mans_Magnusson3"
   projects:
     - Welfare State Analytics: "https://www.westac.se/en/"
     - Mining for Meaning: "https://liu.se/en/research/computational-text-analysis"
@@ -81,7 +81,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+#  rss: false
   email: "smons.magnusson@gmail.com"
 #  facebook: mons.magnusson
   github: MansMeg
@@ -103,7 +103,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: famles
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -115,7 +115,7 @@ url-pretty: "mansmeg.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-160758065-1"
 
 # Google Tag Manager ID
 #gtm: ""
