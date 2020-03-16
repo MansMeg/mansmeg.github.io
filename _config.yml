@@ -24,7 +24,7 @@ description: Måns Magnusson, Ph.D.
 navbar-links:
   news: "news"
   teaching: "teaching"
-  research: "publications"
+  research:
     - publications: "publications"
     - Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
   projects:
