@@ -28,11 +28,10 @@ navbar-links:
     - publications: "publications"
     - Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
     - ResearchGate: "https://www.researchgate.net/profile/Mans_Magnusson3"
-  projects:
     - Welfare State Analytics: "https://www.westac.se/en/"
     - Mining for Meaning: "https://liu.se/en/research/computational-text-analysis"
     - Newsworthy:  "https://www.newsworthy.se/en/"
-  software:  "software"
+    - software:  "software"
   about me:
     - CV: "files/cv.pdf"
     - Contact: "contact"
