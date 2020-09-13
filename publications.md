@@ -6,6 +6,9 @@ title: Research
 
 #### Submitted and arXived work
 
+Akash Kumar Dhaka, Alejandro Catalina, Michael Riis Andersen, Måns Magnusson, Jonathan H. Huggins, Aki Vehtari *Robust, Accurate Stochastic Optimization for Variational Inference*<br/>
+[arXiv](https://arxiv.org/abs/2009.00666)
+
 Tuomas Sivola, Måns Magnusson, and Aki Vehtari. *Unbiased estimator for the variance of the leave-one-out cross-validation estimator for a Bayesian normal model with fixed variance* <br/>
 [arXiv](https://arxiv.org/abs/2008.10859)
 
