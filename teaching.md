@@ -8,11 +8,11 @@ title: Teaching
 
 #### Current courses
 
+#### 2020
 
-**Bayesian Data Analysis** (CS-E5710), Aalto University, 5 ECTS, Master level,
-*Role*: Assignment development, Teaching assistant <br/>
-[github](https://github.com/avehtari/BDA_course_Aalto)
-
+**Introduction to Machine Learning** (CS-E5710), Uppsala University, 7.5 ECTS, Master level,
+*Role*: Responsible teacher <br/>
+[github](https://github.com/MansMeg/IntroML)
 
 
 #### 2019
