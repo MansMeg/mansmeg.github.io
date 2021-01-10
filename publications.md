@@ -3,11 +3,7 @@ layout: page
 title: Research
 ---
 
-
 #### Submitted and arXived work
-
-Akash Kumar Dhaka, Alejandro Catalina, Michael Riis Andersen, Måns Magnusson, Jonathan H. Huggins, Aki Vehtari *Robust, Accurate Stochastic Optimization for Variational Inference*<br/>
-[arXiv](https://arxiv.org/abs/2009.00666)
 
 Tuomas Sivola, Måns Magnusson, and Aki Vehtari. *Unbiased estimator for the variance of the leave-one-out cross-validation estimator for a Bayesian normal model with fixed variance* <br/>
 [arXiv](https://arxiv.org/abs/2008.10859)
@@ -18,13 +14,16 @@ Tuomas Sivola, Måns Magnusson, and Aki Vehtari. *Uncertainty in Bayesian Leave-
 Oscar Oelrich, Shutong Ding, Aki Vehtari, Måns Magnusson, and Mattias Villani. *When is Bayesian model probabilities overconfident?* <br/>
 [arXiv](https://arxiv.org/abs/2003.04026)
 
-Alexander Terenin, Måns Magnusson, and Leif Jonsson. *Sparse parallel training of hierarchical dirichlet process topic models*. <br/>
-[arXiv](https://arxiv.org/abs/1906.02416)
-
 Måns Magnusson, Richard Öhrvall, Katarina Barrling, and David Mimno. *Voices from the far right: a text analysis of Swedish parliamentary debates*. <br/>
 [socarXiv](https://osf.io/preprints/socarxiv/jdsqc/)
 
 #### Published
+
+Akash Kumar Dhaka, Alejandro Catalina, Michael Riis Andersen, Måns Magnusson, Jonathan H. Huggins, Aki Vehtari *Robust, Accurate Stochastic Optimization for Variational Inference* NeurIPS, 2020.
+[arXiv](https://arxiv.org/abs/2009.00666) [proceedings](https://papers.nips.cc/paper/2020/hash/7cac11e2f46ed46c339ec3d569853759-Abstract.html)
+
+Alexander Terenin, Måns Magnusson, and Leif Jonsson. *Sparse parallel training of hierarchical dirichlet process topic models*. Emprical Methods in Natural Language Processing, 2020.
+[arXiv](https://arxiv.org/abs/1906.02416) [proceedings](https://www.aclweb.org/anthology/2020.emnlp-main.234/)
 
 Måns Magnusson, Michael Riis Andersen, Johan Jonasson, and Aki Vehtari. *Leave-one-out cross-validation for model comparison in large data*. AISTATS, 2020. <br/>
 [arXiv](https://arxiv.org/abs/2001.00980)
