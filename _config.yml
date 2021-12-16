@@ -25,7 +25,7 @@ navbar-links:
   news: "news"
   teaching: "teaching"
   research:
-    - publications: "publications"
+    - publications: "files/pub.pdf"
     - Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
     - ResearchGate: "https://www.researchgate.net/profile/Mans_Magnusson3"
     - Welfare State Analytics: "https://www.westac.se/en/"

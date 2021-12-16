@@ -3,6 +3,20 @@ layout: page
 title: News
 ---
 
+[//]: # (This may be the most platform independent comment)
+
+<br> *December 15, 2021* <br/>
+I just got a paper accepted in *Communications in Statistics – Theory and Methods*.
+
+
+<br> *April 15, 2021* <br/>
+I  got a chapter accepted in the book *Digitised Newspapers – A New Eldorado for Historians?*.
+
+
+<br> *Januari 12, 2021* <br/>
+I became a developer of [Stan](https://https://mc-stan.org/) when my work with [posteriordb](https://github.com/stan-dev/posteriordb) became a stan project.
+
+
 <br> *November 27, 2020* <br/>
 My project [Newsworthy](https://www.newsworthy.se) was awarded one of top 5 best newssites in Sweden. See more [here](https://topp100.idg.se/2.39772/1.742857/topp-100-2020-nyheter) (in Swedish).
 
@@ -18,7 +32,7 @@ I just got a paper accepted at NeurIPS.
 I just got a paper accepted at EMNLP.
 
 <br> *September 3, 2020* <br/>
-I just arXived a new papers on robust variational inference using tools from MCMCM diagnostics.
+I just arXived a new papers on robust variational inference using tools from MCMC diagnostics.
 
 <br> *August 28, 2020* <br/>
 We arXived two new papers on uncertainty in Leave-one-out cross-validation.
