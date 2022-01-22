@@ -22,7 +22,6 @@ description: Måns Magnusson, Ph.D.
 #  Blog: "blog"
 
 navbar-links:
-  news: "news"
   teaching: "teaching"
   research:
     - Publications: "files/pub.pdf"
