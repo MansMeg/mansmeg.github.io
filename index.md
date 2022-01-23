@@ -14,7 +14,7 @@ I'm currently an assistant professor in Statistics at [Department of Statistics,
 I have a background as a statistician for [the Swedish Agency for Education](https://www.skolverket.se/), [the Swedish Agency for Crime Prevention](https://www.bra.se/), and [the Swedish Agency for Public Health](https://www.folkhalsomyndigheten.se/) where I was working on education statistics, crime statistics and, public health. 
 
 #### Research Interests
-My research interest is in Bayesian Statistics and Probabilistic Machine Learning and how these tools can be used to draw scientific conclusions about society and culture. I have a special interest in the use of text as data for scientific inference.
+My research interest is in Bayesian Statistics and Probabilistic Machine Learning and how we can use these tools to draw scientific conclusions about society and culture. I have a particular interest in using text as data for scientific inference.
 
 #### Research Interests Keywords
 Probabilistic Machine Learning, Bayesian Statistics, Model Comparison and Evaluation, Textual analysis, Computational Social Science, Digital Humanities, Survey Sampling
