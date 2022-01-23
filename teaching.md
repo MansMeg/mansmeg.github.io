@@ -6,7 +6,15 @@ title: Teaching
 
 
 
-#### Current courses
+#### Current/coming courses
+
+**Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
+*Role*: Responsible teacher <br/>
+[github](https://github.com/MansMeg/IntroML)
+
+
+
+#### 2021
 
 **Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
 *Role*: Responsible teacher <br/>
