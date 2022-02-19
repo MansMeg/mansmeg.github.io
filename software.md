@@ -83,8 +83,8 @@ Connections to PXWEB type API:s for official statistics.<br/>
 [![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/markmyassignment)](https://cran.r-project.org/web/packages/markmyassignment) 
 [![Monthly downloads](https://cranlogs.r-pkg.org/badges/markmyassignment?color=blue)](https://cran.r-project.org/web/packages/markmyassignment)
 [![Coverage Status](https://codecov.io/gh/MansMeg/markmyassignment/branch/master/graph/badge.svg)](https://codecov.io/gh/MansMeg/markmyassignment?branch=master) 
-<br/>
 [![R-CMD-check](https://github.com/MansMeg/markmyassignment/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/MansMeg/markmyassignment/actions/workflows/check-standard.yaml) 
+<br/>
 <!-- badges: end -->
 Automatic marking of student assignments using unit test suites.<br/>
 (maintainer, author, creator) <br/>
