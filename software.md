@@ -31,7 +31,11 @@ Interface to the Mallet Java library for machine learning and topic modeling. <b
 (maintainer) <br/>
 
 
-`sweidnumbr` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/ropengov/sweidnumbr) <br/>
+`sweidnumbr` 
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/ropengov/sweidnumbr) 
+[![Watch on GitHub](https://img.shields.io/github/watchers/ropengov/sweidnumbr.svg?style=social)](https://github.com/ropengov/sweidnumbr/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/ropengov/sweidnumbr.svg?style=social)](https://github.com/ropengov/sweidnumbr/stargazers)
+<br/>
 <!-- badges: start -->
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/sweidnumbr?color=blue)](https://cran.r-project.org/web/packages/sweidnumbr)
 [![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/sweidnumbr)](https://cran.r-project.org/web/packages/sweidnumbr) 
@@ -42,8 +46,6 @@ Interface to the Mallet Java library for machine learning and topic modeling. <b
 <!-- badges: end -->
 Handling Swedish identity numbers in R <br/>
 (maintainer, author, creator) <br/>
-
-
 
 
 `pxweb` 
