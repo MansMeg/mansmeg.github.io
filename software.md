@@ -5,11 +5,11 @@ title: Software
 
 #### R
 
-`loo` [![cran version](http://www.r-pkg.org/badges/version/loo)](http://cran.rstudio.com/web/packages/loo)
+`loo` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/stan-dev/loo) [![cran version](http://www.r-pkg.org/badges/version/loo)](http://cran.rstudio.com/web/packages/loo)
 [![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/loo)](https://cran.r-project.org/web/packages/loo) [![Monthly downloads](https://cranlogs.r-pkg.org/badges/loo?color=blue)](https://cran.r-project.org/web/packages/loo) 
-[![Travis-CI Build Status](https://travis-ci.org/stan-dev/loo.svg?branch=master)](https://travis-ci.org/stan-dev/loo) (author) <br/>
+[![Travis-CI Build Status](https://travis-ci.org/stan-dev/loo.svg?branch=master)](https://travis-ci.org/stan-dev/loo) <br/>
 Leave-one-out cross-validation using R (and stan).<br/>
-[github](https://github.com/stan-dev/loo)
+(author) <br/>
 
 `mallet` [![cran version](http://www.r-pkg.org/badges/version/mallet)](http://cran.rstudio.com/web/packages/mallet)
 [![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/mallet)](https://github.com/metacran/cranlogs.app) [![Build Status](https://travis-ci.org/MansMeg/RMallet.svg?branch=master)](https://travis-ci.org/MansMeg/RMallet) (maintainer) <br/>
@@ -22,7 +22,7 @@ Handling Swedish identity numbers in R <br/>
 [github](https://github.com/ropengov/sweidnumbr)
 
 
-`pxweb` <a href=https://github.com/rOpenGov/pxweb><img src=https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg alt></a> [![Foo](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/rOpenGov/pxweb) [![test](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://travis-ci.org/rOpenGov/pxweb) [![cran version](http://www.r-pkg.org/badges/version/pxweb)](http://cran.rstudio.com/web/packages/pxweb)
+`pxweb` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/rOpenGov/pxweb) [![cran version](http://www.r-pkg.org/badges/version/pxweb)](http://cran.rstudio.com/web/packages/pxweb)
 [![Downloads](http://cranlogs.r-pkg.org/badges/pxweb)](https://cran.r-project.org/package=pxweb) [![Build Status](https://travis-ci.org/rOpenGov/pxweb.svg?branch=master)](https://travis-ci.org/rOpenGov/pxweb) (maintainer, author, creator) <br/>
 Connections to PXWEB type API:s for official statistics.<br/>
 [github](https://github.com/ropengov/pxweb)
