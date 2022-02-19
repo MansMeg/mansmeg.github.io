@@ -17,7 +17,11 @@ title: Software
 Leave-one-out cross-validation using R (and stan).<br/>
 (author) <br/>
 
-`mallet` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/Rmallet) <br/>
+`mallet` 
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/Rmallet)
+[![Watch on GitHub](https://img.shields.io/github/watchers/mansmeg/mallet.svg?style=social)](https://github.com/mansmeg/mallet/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/mansmeg/mallet.svg?style=social)](https://github.com/mansmeg/mallet/stargazers)
+<br/>
 <!-- badges: start -->
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/mallet?color=blue)](http://cran.rstudio.com/web/packages/mallet)
 [![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/mallet)](https://cran.r-project.org/web/packages/mallet) 
