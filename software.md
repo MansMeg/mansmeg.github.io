@@ -5,16 +5,28 @@ title: Software
 
 #### R
 
-`loo` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/stan-dev/loo) [![cran version](http://www.r-pkg.org/badges/version/loo)](http://cran.rstudio.com/web/packages/loo)
-[![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/loo)](https://cran.r-project.org/web/packages/loo) [![Monthly downloads](https://cranlogs.r-pkg.org/badges/loo?color=blue)](https://cran.r-project.org/web/packages/loo) 
-[![Travis-CI Build Status](https://travis-ci.org/stan-dev/loo.svg?branch=master)](https://travis-ci.org/stan-dev/loo) <br/>
+`loo` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/stan-dev/loo) <br/>
+<!-- badges: start -->
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/loo?color=blue)](https://cran.r-project.org/web/packages/loo)
+[![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/loo)](https://cran.r-project.org/web/packages/loo) 
+[![Monthly downloads](https://cranlogs.r-pkg.org/badges/loo?color=blue)](https://cran.r-project.org/web/packages/loo) 
+[![codecov](https://codecov.io/gh/stan-dev/loo/branch/master/graph/badge.svg)](https://codecov.io/github/stan-dev/loo?branch=master)
+[![R-CMD-check](https://github.com/stan-dev/loo/workflows/R-CMD-check/badge.svg)](https://github.com/stan-dev/loo/actions)
+<!-- badges: end -->
 Leave-one-out cross-validation using R (and stan).<br/>
 (author) <br/>
 
-`mallet` [![cran version](http://www.r-pkg.org/badges/version/mallet)](http://cran.rstudio.com/web/packages/mallet)
-[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/mallet)](https://github.com/metacran/cranlogs.app) [![Build Status](https://travis-ci.org/MansMeg/RMallet.svg?branch=master)](https://travis-ci.org/MansMeg/RMallet) (maintainer) <br/>
+`mallet` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/Rmallet) <br/>
+<!-- badges: start -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/mallet)](http://cran.rstudio.com/web/packages/mallet)
+[![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/mallet)](https://cran.r-project.org/web/packages/mallet) 
+[![Monthly downloads](https://cranlogs.r-pkg.org/badges/mallet?color=blue)](https://cran.r-project.org/web/packages/mallet) 
+[![Coverage Status](https://coveralls.io/repos/MansMeg/RMallet/badge.svg)](https://coveralls.io/r/MansMeg/RMallet) 
+[![Build Status](https://travis-ci.org/MansMeg/RMallet.svg?branch=master)](https://travis-ci.org/MansMeg/RMallet)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MansMeg/RMallet?branch=master&svg=true)](https://ci.appveyor.com/project/MansMeg/RMallet)
+<!-- badges: end -->
 Interface to the Mallet Java library for machine learning and topic modeling. <br/>
-[github](https://github.com/MansMeg/Rmallet)
+(maintainer) <br/>
 
 
 `sweidnumbr` [![cran version](http://www.r-pkg.org/badges/version/sweidnumbr)](http://cran.rstudio.com/web/packages/sweidnumbr)  [![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/sweidnumbr)](https://github.com/metacran/cranlogs.app) [![Build Status](https://travis-ci.org/rOpenGov/sweidnumbr.svg?branch=master)](https://travis-ci.org/rOpenGov/sweidnumbr) (maintainer, author, creator) <br/>
