@@ -5,7 +5,10 @@ title: Software
 
 #### R
 
-`loo` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/stan-dev/loo) <br/>
+`loo` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/stan-dev/loo) 
+[![Watch on GitHub](https://img.shields.io/github/watchers/stan-dev/loo.svg?style=social)](https://github.com/stan-dev/loo/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/stan-dev/loo.svg?style=social)](https://github.com/stan-dev/loo/stargazers)
+<br/>
 <!-- badges: start -->
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/loo?color=blue)](https://cran.r-project.org/web/packages/loo)
 [![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/loo)](https://cran.r-project.org/web/packages/loo) 
@@ -69,6 +72,20 @@ Connections to PXWEB type API:s for official statistics.<br/>
 (maintainer, author, creator) <br/>
 
 
-`markmyassignment` [![cran version](http://www.r-pkg.org/badges/version/markmyassignment)](http://cran.rstudio.com/web/packages/markmyassignment) [![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/markmyassignment)](https://github.com/metacran/cranlogs.app) [![Build Status](https://travis-ci.org/MansMeg/markmyassignment.svg?branch=master)](https://travis-ci.org/MansMeg/markmyassignment) (maintainer, author, creator) <br/>
+
+`markmyassignment`
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/markmyassignment) 
+[![Watch on GitHub](https://img.shields.io/github/watchers/MansMeg/markmyassignment.svg?style=social)](https://github.com/MansMeg/markmyassignment/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/MansMeg/markmyassignment.svg?style=social)](https://github.com/MansMeg/markmyassignment/stargazers)
+<br/>
+<!-- badges: start -->
+[![CRAN Status](https://www.r-pkg.org/badges/version/markmyassignment?color=blue)](https://cran.r-project.org/web/packages/markmyassignment)
+[![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/markmyassignment)](https://cran.r-project.org/web/packages/markmyassignment) 
+[![Monthly downloads](https://cranlogs.r-pkg.org/badges/markmyassignment?color=blue)](https://cran.r-project.org/web/packages/markmyassignment)
+[![Coverage Status](https://codecov.io/gh/MansMeg/markmyassignment/branch/master/graph/badge.svg)](https://codecov.io/gh/MansMeg/markmyassignment?branch=master) 
+<br/>
+[![R-CMD-check](https://github.com/MansMeg/markmyassignment/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/MansMeg/markmyassignment/actions/workflows/check-standard.yaml) 
+<!-- badges: end -->
 Automatic marking of student assignments using unit test suites.<br/>
-[github](https://github.com/MansMeg/markmyassignment)
+(maintainer, author, creator) <br/>
+
