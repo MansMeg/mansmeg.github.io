@@ -19,7 +19,7 @@ Leave-one-out cross-validation using R (and stan).<br/>
 
 `mallet` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/Rmallet) <br/>
 <!-- badges: start -->
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/mallet)](http://cran.rstudio.com/web/packages/mallet)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/mallet?color=blue)](http://cran.rstudio.com/web/packages/mallet)
 [![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/mallet)](https://cran.r-project.org/web/packages/mallet) 
 [![Monthly downloads](https://cranlogs.r-pkg.org/badges/mallet?color=blue)](https://cran.r-project.org/web/packages/mallet) 
 [![Coverage Status](https://coveralls.io/repos/MansMeg/RMallet/badge.svg)](https://coveralls.io/r/MansMeg/RMallet) 
@@ -45,10 +45,22 @@ Handling Swedish identity numbers in R <br/>
 
 
 
-`pxweb` [![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/rOpenGov/pxweb) [![cran version](http://www.r-pkg.org/badges/version/pxweb)](http://cran.rstudio.com/web/packages/pxweb)
-[![Downloads](http://cranlogs.r-pkg.org/badges/pxweb)](https://cran.r-project.org/package=pxweb) [![Build Status](https://travis-ci.org/rOpenGov/pxweb.svg?branch=master)](https://travis-ci.org/rOpenGov/pxweb) (maintainer, author, creator) <br/>
+
+`pxweb` 
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/rOpenGov/pxweb) 
+[![Watch on GitHub](https://img.shields.io/github/watchers/ropengov/pxweb.svg?style=social)](https://github.com/ropengov/pxweb/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/ropengov/pxweb.svg?style=social)](https://github.com/ropengov/pxweb/stargazers)
+<br/>
+<!-- badges: start -->
+[![CRAN Status](https://www.r-pkg.org/badges/version/pxweb?color=blue)](https://cran.r-project.org/web/packages/pxweb)
+[![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/pxweb)](https://cran.r-project.org/web/packages/pxweb) 
+[![Monthly downloads](https://cranlogs.r-pkg.org/badges/pxweb?color=blue)](https://cran.r-project.org/web/packages/pxweb)
+[![Coverage Status](https://coveralls.io/repos/github/rOpenGov/pxweb/badge.svg?branch=master)](https://coveralls.io/github/rOpenGov/pxweb?branch=master)
+[![R build status](https://github.com/rOpenGov/pxweb/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/pxweb/actions)
+<br/>
+<!-- badges: end -->
 Connections to PXWEB type API:s for official statistics.<br/>
-[github](https://github.com/ropengov/pxweb)
+(maintainer, author, creator) <br/>
 
 
 `markmyassignment` [![cran version](http://www.r-pkg.org/badges/version/markmyassignment)](http://cran.rstudio.com/web/packages/markmyassignment) [![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/markmyassignment)](https://github.com/metacran/cranlogs.app) [![Build Status](https://travis-ci.org/MansMeg/markmyassignment.svg?branch=master)](https://travis-ci.org/MansMeg/markmyassignment) (maintainer, author, creator) <br/>
