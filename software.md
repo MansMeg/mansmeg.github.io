@@ -6,7 +6,7 @@ title: Software
 #### R
 
 `loo` [![cran version](http://www.r-pkg.org/badges/version/loo)](http://cran.rstudio.com/web/packages/loo)
-[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/loo?color=blue)](https://cran.r-project.org/web/packages/loo)
+[![Total downloads](http://cranlogs.r-pkg.org/badges/grand-total/loo)](https://cran.r-project.org/web/packages/loo) [![Monthly downloads](https://cranlogs.r-pkg.org/badges/loo?color=blue)](https://cran.r-project.org/web/packages/loo) 
 [![Travis-CI Build Status](https://travis-ci.org/stan-dev/loo.svg?branch=master)](https://travis-ci.org/stan-dev/loo) (author) <br/>
 Leave-one-out cross-validation using R (and stan).<br/>
 [github](https://github.com/stan-dev/loo)
