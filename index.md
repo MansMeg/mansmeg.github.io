@@ -9,7 +9,7 @@ use-site-title: true
 I am an assistant professor of Statistics at Uppsala University, Sweden and affiliated with the Institute for Analytical Sociology at Linköping University, Sweden. My primary research interests are Bayesian inference, probabilistic machine learning, and statistical inference from textual data. 
 
 #### Extended Bio
-I am currently an assistant professor in Statistics at [the Department of Statistics, Uppsala University](https://www.statistik.uu.se/?languageId=1) in Sweden and affiliated with the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) at Linköping University, Sweden.
+I am currently an assistant professor in Statistics at [the Department of Statistics, Uppsala University](https://www.statistik.uu.se/?languageId=1) in Sweden and affiliated with the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) at Linköping University, Sweden. During 2024 I will be part of the Uppsala University [AI4Research](https://www.uu.se/en/research/ai4research) project.
 
 Before my position at Uppsala University, I was a postdoc under [Aki Vehtari](https://users.aalto.fi/~ave/) at the [Department of Computer Science, Aalto University](https://www.aalto.fi/en/department-of-computer-science), Finland. I hold a PhD from Linköping University, Sweden, supervised by [Mattias Villani](https://www.mattiasvillani.com/) and with [Marco Kuhlmann](https://www.ida.liu.se/~marku61/) as co-supervisor. During my PhD, I was a guest researcher/PhD at [Cornell University](https://www.cornell.edu/) under [David Mimno](https://mimno.infosci.cornell.edu/).
 
