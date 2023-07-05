@@ -8,34 +8,26 @@ title: Teaching
 
 #### Current/coming courses
 
-**Bayesian statistics and data analysis** (-), Uppsala University, 7.5 ECTS, Master level,
-*Role*: Responsible teacher <br/>
-[github](https://github.com/MansMeg/BSDA)
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/BSDA)  **Bayesian statistics and data analysis** (-), Uppsala University, 7.5 ECTS, Master level
 
-**Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
-*Role*: Responsible teacher <br/>
-[github](https://github.com/MansMeg/IntroML)
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML) **Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level
 
 
 #### 2022
 
-**Bayesian statistics and data analysis** (-), Uppsala University, 7.5 ECTS, Master level,
-*Role*: Responsible teacher <br/>
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/BSDA) **Bayesian statistics and data analysis** (-), Uppsala University, 7.5 ECTS, Master level
 
-**Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
-*Role*: Responsible teacher <br/>
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML) **Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level
 
 
 #### 2021
 
-**Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
-*Role*: Responsible teacher <br/>
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML) **Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level
 
 
 #### 2020
 
-**Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
-*Role*: Responsible teacher <br/>
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML) **Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level
 
 
 #### 2019
@@ -43,26 +35,21 @@ title: Teaching
 **Research Project** (AAN-C2008), Aalto University, 5 ECTS, Master level <br/>
 *Role*: Supervisor
 
-
-**Bayesian Data Analysis** (CS-E5710), Aalto University, 5 ECTS, Master level <br/>
-*Role*: Assignment development, Teaching assistant <br/>
-[github](https://github.com/avehtari/BDA_course_Aalto)
-
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/avehtari/BDA_course_Aalto) **Bayesian Data Analysis** (CS-E5710), Aalto University, 5 ECTS, Master level <br/>
+*Role*: Teaching Assistant
 
 #### 2018
 
-**Bayesian Data Analysis** (CS-E5710), Aalto University, 5 ECTS, Master level <br/>
-*Role*: Teaching assistant <br/>
-[github](https://github.com/avehtari/BDA_course_Aalto)
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/avehtari/BDA_course_Aalto) **Bayesian Data Analysis** (CS-E5710), Aalto University, 5 ECTS, Master level <br/>
+*Role*: Teaching Assistant
 
 
 **Text Mining** (732A92), Linköping University 6 ECTS, Master level <br/>
 *Role*: Responsible for the block on probabilistic methods for text analysis
 
 
-**Programming in R** (732G33), Linköping University 7.5 ECTS, Bachelor level <br/>
-*Role*: Lecturer, Course responsibility <br/>
-[github](https://github.com/STIMALiU/KursRprgm)
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/STIMALiU/KursRprgm) **Programming in R** (732G33), Linköping University 7.5 ECTS, Bachelor level <br/>
+*Role*: Lecturer <br/>
 
 
 #### 2017
@@ -70,13 +57,11 @@ title: Teaching
 **Text Mining** (732A92), Linköping University 6 ECTS, Master level <br/>
 *Role*: Responsible for the block on probabilistic methods for text analysis
 
-**Programming in R** (732G33), Linköping University 7.5 ECTS, Bachelor level <br/>
-*Role*: Lecturer, Course responsibility <br/>
-[github](https://github.com/STIMALiU/KursRprgm)
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/STIMALiU/KursRprgm) **Programming in R** (732G33), Linköping University 7.5 ECTS, Bachelor level <br/>
+*Role*: Lecturer <br/>
 
-**Bayesian Learning** (732A91), Linköping University 6 ECTS, Master level <br/>
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/STIMALiU/BayesLearnCourse) **Bayesian Learning** (732A91), Linköping University 6 ECTS, Master level <br/>
 *Role*: Teaching assistant
-[github](https://github.com/STIMALiU/BayesLearnCourse)
 
 **Probability and Statistics** (TDAB01), Linköping University 6 ECTS, Bachelor level  <br/>
 *Role*: Lab Teacher
