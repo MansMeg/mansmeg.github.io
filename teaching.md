@@ -16,6 +16,15 @@ title: Teaching
 [github](https://github.com/MansMeg/IntroML)
 
 
+#### 2022
+
+**Bayesian statistics and data analysis** (-), Uppsala University, 7.5 ECTS, Master level,
+*Role*: Responsible teacher <br/>
+
+**Introduction to Machine Learning** (2ST122), Uppsala University, 7.5 ECTS, Master level,
+*Role*: Responsible teacher <br/>
+[github](https://github.com/MansMeg/IntroML)
+
 
 #### 2021
 
