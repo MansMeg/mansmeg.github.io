@@ -23,13 +23,13 @@ description: Måns Magnusson, Ph.D.
 
 navbar-links:
   teaching: "teaching"
-  publications:
-    - Publications: "files/pub.pdf"
-    - Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
-    - ResearchGate: "https://www.researchgate.net/profile/Mans_Magnusson3"
+  publications: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
   projects:
     - Welfare State Analytics: "https://www.westac.se/en/"
     - Mining for Meaning: "https://liu.se/en/research/computational-text-analysis"
+    - SWERIK: "https://swerik-project.github.io/"
+    - LFStats: "lfstats"
+    - GenProb: "genprob"
     - Newsworthy:  "https://www.newsworthy.se/en/"
   software:  "software"
   about me:
