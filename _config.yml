@@ -4,7 +4,7 @@
 title: Måns Magnusson
 
 # Short description of your site
-description: Måns Magnusson, Ph.D.
+description: Måns Magnusson, Ph.D., Docent
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -31,6 +31,7 @@ navbar-links:
     - LFStats: "lfstats"
     - GenProb: "genprob"
     - Newsworthy:  "https://www.newsworthy.se/en/"
+    - BottenAda:  "https://www.bottenada.se"
   software:  "software"
   about me:
     - CV: "files/cv.pdf"
