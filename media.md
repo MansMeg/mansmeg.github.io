@@ -13,9 +13,9 @@ title: Media
 
 **Photographer Hannes Karlsson**
 
-[Profile image 3](https://mansmeg.github.io/files/230223-ts-måns-04.JPG)
+[Profile image 3](https://mansmeg.github.io/files/230223-ts-mans-04.JPG)
 
-[Profile image 4](https://mansmeg.github.io/files/230223-ts-måns0-09.JPG)
+[Profile image 4](https://mansmeg.github.io/files/230223-ts-mans0-09.JPG)
 
 **Photographer Tobias Sterner**
 
