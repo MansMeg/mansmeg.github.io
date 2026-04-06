@@ -3,12 +3,9 @@ layout: page
 title: Teaching
 ---
 
+#### Ongoing courses
 
-
-
-#### Current/coming courses
-
-**Bayesian statistics and data analysis** (2ST128)
+**Bayesian statistics and data analysis** (2ST128) (since 2022)
 
 Uppsala University, 7.5 ECTS, Master level
 
@@ -16,7 +13,7 @@ Uppsala University, 7.5 ECTS, Master level
 
 <br/>
 
-**Machine Learning** (2ST129)
+**Machine Learning** (2ST129) (since 2020)
 
 Uppsala University, 7.5 ECTS, Master level
 
@@ -24,43 +21,7 @@ Uppsala University, 7.5 ECTS, Master level
 
 <br/>
 
-#### 2022
 
-**Bayesian statistics and data analysis** (2ST128)
-
-Uppsala University, 7.5 ECTS, Master level
-
-[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/BSDA)
-
-<br/>
-
-**Machine Learning** (2ST129)
-
-Uppsala University, 7.5 ECTS, Master level
-
-[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML)
-
-<br/>
-
-#### 2021
-
-**AI, Big data and Machine Learning** (2ST122)
-
-Uppsala University, 7.5 ECTS, Master level
-
-[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML)
-
-<br/>
-
-#### 2020
-
-**AI, Big data and Machine Learning** (2ST122)
-
-Uppsala University, 7.5 ECTS, Master level
-
-[![GitHub](https://d33wubrfki0l68.cloudfront.net/57b49d06f9d21448da7139f8f6a1addb9942b720/4f69a/images/users/github.svg)](https://github.com/MansMeg/IntroML)
-
-<br/>
 
 #### 2019
 
