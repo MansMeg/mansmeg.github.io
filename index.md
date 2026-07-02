@@ -8,6 +8,15 @@ use-site-title: true
 #### Short Bio
 I am an associate professor in Statistics at Uppsala University. My primary research interests are Bayesian inference, probabilistic machine learning, and statistical inference from textual data. 
 
+#### Current Work
+My current work develops Bayesian and probabilistic machine learning methods for reliable inference with large, complex data. This includes model evaluation and diagnostics for probabilistic programming, statistical methods for text-as-data, legal AI, and data curation for large research infrastructures such as Swedish parliamentary and legal text corpora.
+
+#### Selected Highlights
+- Awarded the Rettigska prize in 2026 for research on methods for large-scale text analysis and work making the Swedish parliamentary record accessible and analyzable.
+- Elected member of [ELLIS](https://ellis.eu/) in 2024 and [the Swedish Young Academy](https://www.sverigesungaakademi.se/en-GB/1.html) in 2023.
+- PI of the Swedish Research Council starting grant "Improving Probabilistic Programming generalizability" and co-PI of the [SWERIK](https://swerik-project.github.io/) research infrastructure project.
+- Co-recipient of Statistician of the Year 2022 for [Botten Ada](https://www.bottenada.se/), a Bayesian model for Swedish election prediction.
+
 #### Extended Bio
 I am currently an associate professor in Statistics at [the Department of Statistics, Uppsala University](https://www.statistik.uu.se/?languageId=1) and affiliated with the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) at Linköping University and the [Institute for Future Studies](https://www.iffs.se/en/), all in Sweden. 
 
@@ -17,13 +26,13 @@ I hold a PhD from Linköping University, Sweden, supervised by [Mattias Villani]
 
 I currently hold a starting grant from [the Swedish Research council (SRC)](https://www.vr.se/english.html) in data science on "Improving Probabilistic Programming generalizability". In addition, I'm also a co-PI of the [SWERIK](https://swerik-project.github.io/) research infrastructure project financed by [Riksbankens jubileumsfond](https://www.rj.se/) on the improving Swedish parliamentary proceedings for large-scale textual research.
 
-In 2026, I was awarded the [Rettigska prize](https://www.vitterhetsakademien.se/priser/rettigska-priset.html) by the [Royal Swedish Academy of Letters, History and Antiquities](https://www.vitterhetsakademien.se/) for my leading research on methods for large-scale text analysis, including work to make the Swedish parliamentary record accessible and analyzable. In 2024, I was elected a member of [the European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/). In 2023, my collaborators and I were awarded the price [Statistician of the Year](https://statistikframjandet.se/statistikframjandet/botten-ada-blir-arets-statistikframjare-2022/) for the work with [Botten Ada](https://www.bottenada.se/), a [Bayesian model for election prediction](https://youtu.be/Dtk5ghFmhz8) of the Swedish 2022 election. During the same year, I was elected to be a member of the [Swedish Young Academy](https://www.sverigesungaakademi.se/en-GB/1.html) in May 2023 for a period of five years. 
+In 2026, I was awarded the [Rettigska prize](https://www.vitterhetsakademien.se/priser/rettigska-priset.html) by the [Royal Swedish Academy of Letters, History and Antiquities](https://www.vitterhetsakademien.se/) for my leading research on methods for large-scale text analysis, including work to make the Swedish parliamentary record accessible and analyzable. In 2024, I was elected a member of [the European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/). In 2023, my collaborators and I were awarded the prize [Statistician of the Year](https://statistikframjandet.se/statistikframjandet/botten-ada-blir-arets-statistikframjare-2022/) for the work with [Botten Ada](https://www.bottenada.se/), a [Bayesian model for election prediction](https://youtu.be/Dtk5ghFmhz8) of the Swedish 2022 election. During the same year, I was elected to be a member of the [Swedish Young Academy](https://www.sverigesungaakademi.se/en-GB/1.html) in May 2023 for a period of five years. 
 
-Previously, I was project member of the two larger SRC grants [Mining for Meaning](https://liu.se/en/research/computational-text-analysis) and [Welfare State Analytics](https://www.westac.se/en/), both doing large scale text analysis in sociology and history. During 2024, I was also elected to the Uppsala University [AI4Research](https://www.uu.se/en/research/ai4research) sabathical grant on using AI in research applications.
+Previously, I was project member of the two larger SRC grants [Mining for Meaning](https://liu.se/en/research/computational-text-analysis) and [Welfare State Analytics](https://www.westac.se/en/), both doing large scale text analysis in sociology and history. During 2024, I was also elected to the Uppsala University [AI4Research](https://www.uu.se/en/research/ai4research) sabbatical grant on using AI in research applications.
 
 I have a background as a statistician for [the Swedish Agency for Education](https://www.skolverket.se/), [the Swedish Agency for Crime Prevention](https://www.bra.se/), and [the Swedish Agency for Public Health](https://www.folkhalsomyndigheten.se/) where I was working on education statistics, crime statistics and, public health.
 
-In addition to my scientific work, I have a deep interest in local journalism and was a funder of the journalistic startup [Newsworthy](https://www.newsworthy.se/) that is producing data-driven local journalism in Sweden and is behind [Botten Ada](https://www.bottenada.se/). 
+In addition to my scientific work, I have a deep interest in local journalism and was a founder of the journalistic startup [Newsworthy](https://www.newsworthy.se/) that is producing data-driven local journalism in Sweden and is behind [Botten Ada](https://www.bottenada.se/). 
 
 #### Research Interests Keywords
 Probabilistic Machine Learning, Bayesian Statistics, Model Inference, Textual analysis, Computational Social Science, Digital Humanities, Survey Sampling, Law and AI
@@ -32,7 +41,6 @@ Probabilistic Machine Learning, Bayesian Statistics, Model Inference, Textual an
 Ph.D. in Statistics, Linköping University, Sweden. Supervised by [Mattias Villani](https://www.mattiasvillani.com/) and [Marco Kuhlmann](https://www.ida.liu.se/~marku61/).<br/>
 MS in Statistics, Stockholm University, Sweden<br/>
 MS in Economic History, Stockholm University, Sweden
-
 
 
 

@@ -16,6 +16,5 @@ If the project is successful, it will enable more efficient production of statis
 
 
 #### Project information
-The project is partly financed by [Länsförsäkringars forskningsfond](https://www.lansforsakringar.se/stockholm/privat/om-oss/hallbarhet--forskning/forskning/om-forskingsfonden/) and is conduced in close collaboration with [the Swedish National Council for Crime Prevention](https://bra.se/bra-in-english/home.html) (Brå).
-
+The project is partly financed by [Länsförsäkringars forskningsfond](https://www.lansforsakringar.se/stockholm/privat/om-oss/hallbarhet--forskning/forskning/om-forskingsfonden/) and is conducted in close collaboration with [the Swedish National Council for Crime Prevention](https://bra.se/bra-in-english/home.html) (Brå).
 

@@ -11,10 +11,10 @@ description: Måns Magnusson, Ph.D., Docent
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://mansmagnusson.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -23,7 +23,7 @@ description: Måns Magnusson, Ph.D., Docent
 
 navbar-links:
   teaching: "teaching"
-  publications: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
+  Google Scholar: "https://scholar.google.se/citations?user=6AA-AAcAAAAJ&hl=sv"
   projects:
     - SWERIK: "https://swerik-project.github.io/"
     - GenProb: "genprob"
@@ -199,7 +199,6 @@ link-tags: true
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
-  - CNAME
   - Dockerfile
   - Gemfile
   - Gemfile.lock
