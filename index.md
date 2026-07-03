@@ -12,10 +12,10 @@ I am an associate professor in Statistics at Uppsala University. My primary rese
 My current work develops Bayesian and probabilistic machine learning methods for reliable inference with large, complex data. This includes model evaluation and diagnostics for probabilistic programming, statistical methods for text-as-data, legal AI, and data curation for large research infrastructures such as Swedish parliamentary and legal text corpora.
 
 #### Selected Highlights
-- Awarded the Rettigska prize in 2026 for research on methods for large-scale text analysis and work making the Swedish parliamentary record accessible and analyzable.
+- Awarded the [Rettig Prize](https://www.vitterhetsakademien.se/priser/rettigska-priset.html) in 2026 for research on methods for large-scale text analysis and work making the Swedish parliamentary record accessible and analyzable.
 - Elected member of [ELLIS](https://ellis.eu/) in 2024 and [the Swedish Young Academy](https://www.sverigesungaakademi.se/en-GB/1.html) in 2023.
 - PI of the Swedish Research Council starting grant "Improving Probabilistic Programming generalizability" and co-PI of the [SWERIK](https://swerik-project.github.io/) research infrastructure project.
-- Co-recipient of Statistician of the Year 2022 for [Botten Ada](https://www.bottenada.se/), a Bayesian model for Swedish election prediction.
+- Recipient of [Statistician of the year 2022](https://statistikframjandet.se/statistikframjandet/botten-ada-blir-arets-statistikframjare-2022/) for [Botten Ada](https://www.bottenada.se/), a Bayesian model for Swedish election prediction.
 
 #### Extended Bio
 I am currently an associate professor in Statistics at [the Department of Statistics, Uppsala University](https://www.statistik.uu.se/?languageId=1) and affiliated with the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) at Linköping University and the [Institute for Future Studies](https://www.iffs.se/en/), all in Sweden. 
@@ -41,7 +41,5 @@ Probabilistic Machine Learning, Bayesian Statistics, Model Inference, Textual an
 Ph.D. in Statistics, Linköping University, Sweden. Supervised by [Mattias Villani](https://www.mattiasvillani.com/) and [Marco Kuhlmann](https://www.ida.liu.se/~marku61/).<br/>
 MS in Statistics, Stockholm University, Sweden<br/>
 MS in Economic History, Stockholm University, Sweden
-
-
 
 
